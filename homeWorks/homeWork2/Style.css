@@ -1,0 +1,39 @@
+  body{
+    margin: 0;
+    font-family: sans-serif;
+    background-color: aqua;
+  }
+  .container {
+    max-width: 850px;
+     margin-inline: auto;
+     margin-block: 3rem;
+  }
+  #number-box {
+    max-width: 850px;
+    margin-inline: auto;
+    margin-block: 3rem;
+  }
+  h3{
+     display:flex ;
+     align-items: center;
+     justify-content: center;
+     margin: 0;
+     font-size: 1.5rem;
+       color: black;
+    }
+    .btn{
+      width: 100px;
+       height: 40px;
+       border: none;   
+    }
+
+  .number-random{
+    height: 80px;
+    width: 60px;
+    border: 1px solid red;
+    margin: 1px;
+    display: inline-block;
+    border-radius: 1px;
+    align-items: center;
+    justify-content: center;
+  }
