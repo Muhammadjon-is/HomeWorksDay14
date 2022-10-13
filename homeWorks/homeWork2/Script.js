@@ -12,6 +12,12 @@ const createNumberCells = function () {
   }
 };
 
+const generateNumber()  {
+ let number = Math.floor(Math.random() * 76) + 1 ;
+  let  numberOnDisplay  = document.createElemeent('span');
+  
+}
+
 window.onload = function () {
   createNumberCells();
 
