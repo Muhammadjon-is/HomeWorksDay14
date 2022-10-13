@@ -1,5 +1,5 @@
 //  ! I will watch lecture again and try to fix that 
-
+//   
 const createNumberCells = function () {
   for (let i = 1; i < 77; i++) {
     let numbersBox = document.getElementById("numbers-box");
